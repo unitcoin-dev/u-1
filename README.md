@@ -1,8 +1,3 @@
-![UnitCash Logo](https://i.imgur.com/ovemJA3.png)
-
-[![Slack](https://slack.unitcoin.us/badge.svg)](https://slack.unitcoin.us/)
-[![Gitter](https://badges.gitter.im/unitproject/unit.svg)](https://gitter.im/unitproject/unit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![Build Status](https://travis-ci.org/unitproject/unit.svg?branch=master)](https://travis-ci.org/unitproject/unit) [![Code Climate](https://codeclimate.com/github/unitproject/unit/badges/gpa.svg)](https://codeclimate.com/github/unitproject/unit) [![Test Coverage](https://codeclimate.com/github/unitproject/unit/badges/coverage.svg)](https://codeclimate.com/github/unitproject/unit/coverage) 
-
 Introduction
 ===========================
 
