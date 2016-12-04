@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[unitcore.unitclient_qt]
+file_filter = src/qt/locale/unitclient_<lang>.ts
+source_file = src/qt/locale/unitclient_en.ts
+source_lang = en
+type = QT
+
