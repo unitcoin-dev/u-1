@@ -17,10 +17,10 @@ public:
      */
     enum Unit
     {
-        UNIT,
-        mUNIT,
-        uUNIT,
-        sUNIT
+        UNITS,
+        mUNITS,
+        uUNITS,
+        sUNITS
     };
 
     //! @name Static API
